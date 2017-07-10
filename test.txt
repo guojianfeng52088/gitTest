@@ -10,4 +10,4 @@ git reset
 
 the new branch
 
-the new branch 2 create a new branch is quick & simple
+the new branch info create a new branch is quick and simple
