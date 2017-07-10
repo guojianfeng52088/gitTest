@@ -11,3 +11,4 @@ git reset
 the new branch
 
 the new branch 2
+test merge branch info
