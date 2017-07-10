@@ -11,4 +11,4 @@ git reset
 the new branch
 
 the new branch 2
-test merge branch info
+test merge branch info create a new branch is quick and simple
