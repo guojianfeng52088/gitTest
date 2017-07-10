@@ -6,3 +6,6 @@ git diff命令的使用
 
 
 git reset
+
+
+the new branch
